@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "learn redux",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iusto sed quam accusamus, temporibus unde et odit nam consequuntur ratione pariatur nulla fuga! Explicabo at laborum autem dolorem architecto aliquam?",
+      "category": "todo",
+      "id": 1
+    },
+    {
+      "title": "join gym",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iusto sed quam accusamus, temporibus unde et odit nam consequuntur ratione pariatur nulla fuga! Explicabo at laborum autem dolorem architecto aliquam?",
+      "category": "personal",
+      "id": 2
+    },
+    {
+      "title": "Guddu ka bday..:)",
+      "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iusto sed quam accusamus, temporibus unde et odit nam consequuntur ratione pariatur nulla fuga! Explicabo at laborum autem dolorem architecto aliquam?",
+      "category": "work",
+      "id": 3
+    }
+  ]
+}
